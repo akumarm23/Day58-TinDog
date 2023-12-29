@@ -14,8 +14,7 @@ TinDog is an innovative platform designed to help dog owners discover fascinatin
 
 ## Preview
 
-[![TinDog Website Preview](./images/iphone.png)](https://akumarm23.github.io/Day58-TinDog/)
-<img src="./images/iphone.png" alt="TinDog Website Preview Image" width="20" height="20">
+[![TinDog Website Preview](./images/iphone.png | width=100)](https://akumarm23.github.io/Day58-TinDog/)
 
 ## Features
 
