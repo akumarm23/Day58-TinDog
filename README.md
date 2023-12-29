@@ -30,7 +30,7 @@ TinDog is an innovative platform designed to help dog owners discover fascinatin
 
 > "No more need to sniff around for love among other dogs. I've just found the most captivating Corgi on TinDog. Barking with joy!" - Pebbles from the Big Apple
 
-![User Testimonial](./images/dog-img.jpg)
+<img src="./images/dog-img.jpg" alt="User Testimonial" width="100">
 
 ## Pricing
 
